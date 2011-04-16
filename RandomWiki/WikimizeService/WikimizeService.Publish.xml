@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="\\web\Websites\app.mindre.net - Wikimize" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/WikimizeService.dll" publishTime="02/10/2011 21:08:28" />
+    <file relUrl="Service1.svc" publishTime="02/10/2011 20:01:41" />
+    <file relUrl="Wiki.svc" publishTime="02/10/2011 20:22:19" />
+    <file relUrl="Web.config" publishTime="02/10/2011 21:09:26" />
+    <file relUrl="bin/WikimizeService.pdb" publishTime="02/10/2011 21:08:28" />
+  </publishProfile>
+</publishData>

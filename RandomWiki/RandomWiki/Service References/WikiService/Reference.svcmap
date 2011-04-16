@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e97ddf77-4a5e-45eb-ad6a-e1762a39f012" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.ObjectModel.ObservableCollection`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://app.mindre.net/wikimize/wiki.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Wiki3.xsd" MetadataType="Schema" ID="66fec5c2-eb99-408e-b763-32045a89ba01" SourceId="1" SourceUrl="http://app.mindre.net/Wikimize/Wiki.svc?xsd=xsd0" />
+    <MetadataFile FileName="Wiki1.disco" MetadataType="Disco" ID="eb79ff8d-b34b-4f8a-8667-a020509c12db" SourceId="1" SourceUrl="http://app.mindre.net/Wikimize/Wiki.svc?disco" />
+    <MetadataFile FileName="Wiki31.xsd" MetadataType="Schema" ID="9e2d2df1-f051-4e04-af0a-019082735540" SourceId="1" SourceUrl="http://app.mindre.net/Wikimize/Wiki.svc?xsd=xsd1" />
+    <MetadataFile FileName="Wiki32.xsd" MetadataType="Schema" ID="057f9cf8-c6a9-45c6-89fd-94d84d8611bc" SourceId="1" SourceUrl="http://app.mindre.net/Wikimize/Wiki.svc?xsd=xsd2" />
+    <MetadataFile FileName="Wiki1.wsdl" MetadataType="Wsdl" ID="873f8216-1c67-45a0-9367-b8e2ebf2abde" SourceId="1" SourceUrl="http://app.mindre.net/Wikimize/Wiki.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

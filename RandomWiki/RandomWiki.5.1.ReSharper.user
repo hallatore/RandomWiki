@@ -1,0 +1,75 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/f:StateExtensions.cs" caret="425" fromTop="16" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/d:Model/f:LanguageModel.cs" caret="491" fromTop="20" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/d:Model/f:RandomWikiModel.cs" caret="1092" fromTop="40" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/f:Settings.xaml" caret="1414" fromTop="23" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/f:Settings.xaml.cs" caret="912" fromTop="9" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/f:Favorites.xaml.cs" caret="2072" fromTop="35" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/f:RelativeAnimatingContentControl.cs" caret="19618" fromTop="478" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/f:Favorites.xaml" caret="1857" fromTop="29" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/f:App.xaml" caret="0" fromTop="0" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/f:App.xaml.cs" caret="3701" fromTop="44" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/d:Model/f:WikiModel.cs" caret="514" fromTop="20" />
+      <File id="7955750F-139E-47AA-ACD8-630FBBE4032F/f:IService.cs" caret="507" fromTop="17" />
+      <File id="7955750F-139E-47AA-ACD8-630FBBE4032F/f:Service1.svc.cs" caret="6161" fromTop="48" />
+      <File id="7955750F-139E-47AA-ACD8-630FBBE4032F/f:IWiki.cs" caret="466" fromTop="15" />
+      <File id="7955750F-139E-47AA-ACD8-630FBBE4032F/f:Article.cs" caret="412" fromTop="19" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/d:Service References/d:WikiService/f:Reference.cs" caret="14441" fromTop="23" />
+      <File id="7955750F-139E-47AA-ACD8-630FBBE4032F/f:Wiki.svc.cs" caret="2752" fromTop="44" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/f:MainPage.xaml" caret="2262" fromTop="38" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/f:MainPage.xaml.cs" caret="15267" fromTop="27" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7955750F-139E-47AA-ACD8-630FBBE4032F/f:IWiki.cs" caret="466" fromTop="15" />
+      <File id="7955750F-139E-47AA-ACD8-630FBBE4032F/f:Article.cs" caret="162" fromTop="7" />
+      <File id="7955750F-139E-47AA-ACD8-630FBBE4032F/f:Article.cs" caret="412" fromTop="19" />
+      <File id="7955750F-139E-47AA-ACD8-630FBBE4032F/f:IService.cs" caret="507" fromTop="17" />
+      <File id="7955750F-139E-47AA-ACD8-630FBBE4032F/f:Wiki.svc.cs" caret="496" fromTop="12" />
+      <File id="7955750F-139E-47AA-ACD8-630FBBE4032F/f:Wiki.svc.cs" caret="1352" fromTop="34" />
+      <File id="7955750F-139E-47AA-ACD8-630FBBE4032F/f:Wiki.svc.cs" caret="6499" fromTop="91" />
+      <File id="7955750F-139E-47AA-ACD8-630FBBE4032F/f:Wiki.svc.cs" caret="1570" fromTop="22" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/f:MainPage.xaml.cs" caret="4532" fromTop="58" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/f:MainPage.xaml.cs" caret="4142" fromTop="24" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/f:MainPage.xaml.cs" caret="4717" fromTop="38" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/f:MainPage.xaml.cs" caret="4889" fromTop="42" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/f:MainPage.xaml.cs" caret="6356" fromTop="52" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/f:MainPage.xaml.cs" caret="4978" fromTop="34" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/f:MainPage.xaml.cs" caret="5197" fromTop="40" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/f:MainPage.xaml.cs" caret="6007" fromTop="47" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/f:MainPage.xaml.cs" caret="3844" fromTop="32" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/f:MainPage.xaml.cs" caret="4521" fromTop="16" />
+      <File id="7955750F-139E-47AA-ACD8-630FBBE4032F/f:Wiki.svc.cs" caret="1200" fromTop="34" />
+      <File id="7955750F-139E-47AA-ACD8-630FBBE4032F/f:Wiki.svc.cs" caret="1003" fromTop="27" />
+      <File id="7955750F-139E-47AA-ACD8-630FBBE4032F/f:Wiki.svc.cs" caret="2410" fromTop="6" />
+      <File id="7955750F-139E-47AA-ACD8-630FBBE4032F/f:Wiki.svc.cs" caret="6023" fromTop="46" />
+      <File id="7955750F-139E-47AA-ACD8-630FBBE4032F/f:Wiki.svc.cs" caret="3299" fromTop="31" />
+      <File id="7955750F-139E-47AA-ACD8-630FBBE4032F/f:Wiki.svc.cs" caret="560" fromTop="17" />
+      <File id="7955750F-139E-47AA-ACD8-630FBBE4032F/f:Wiki.svc.cs" caret="6308" fromTop="85" />
+      <File id="7955750F-139E-47AA-ACD8-630FBBE4032F/f:Wiki.svc.cs" caret="3066" fromTop="46" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/f:MainPage.xaml" caret="1111" fromTop="4" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/f:MainPage.xaml" caret="3235" fromTop="36" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/f:MainPage.xaml" caret="3859" fromTop="46" />
+      <File id="7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC/f:MainPage.xaml" caret="3520" fromTop="40" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

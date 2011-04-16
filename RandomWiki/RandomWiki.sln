@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomWiki", "RandomWiki\RandomWiki.csproj", "{7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7955750F-139E-47AA-ACD8-630FBBE4032F} = {7955750F-139E-47AA-ACD8-630FBBE4032F}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WikimizeService", "WikimizeService\WikimizeService.csproj", "{7955750F-139E-47AA-ACD8-630FBBE4032F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DCEB75F-63D7-41A5-B94B-EE2F142BA9FC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7955750F-139E-47AA-ACD8-630FBBE4032F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7955750F-139E-47AA-ACD8-630FBBE4032F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7955750F-139E-47AA-ACD8-630FBBE4032F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7955750F-139E-47AA-ACD8-630FBBE4032F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
